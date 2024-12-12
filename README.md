@@ -1,14 +1,12 @@
 <img align="right" width="150" alt="logo" src="https://user-images.githubusercontent.com/5889006/190859553-5b229b4f-c476-4cbd-928f-890f5265ca4c.png">
 
-# Hugo Theme Stack Starter Template
+# rosesori website
 
-This is a quick start template for [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+This is a website made with [Hugo](https://gohugo.io/) with the [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+## Development instructions
 
-## Get started
-
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
+1. Click *Use this template* on the [hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/tree/master) repository page, and create your repository as `<username>.github.io` on GitHub.
 ![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
 
 2. Once the repository is created, create a GitHub codespace associated with it.
