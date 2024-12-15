@@ -25,10 +25,17 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ### How to switch color themes
 
 On MacOS: `Cmd`+`K`+`T`
-
 <!-- TODO: On Windows: ... -->
 
 ## Fonts
+
+### Favorites
+
+These are some great fonts to try. JetBrains Mono and Hack look pretty similar in my opinion, so I sometimes switch between the two.
+
+- [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+- [Hack](https://sourcefoundry.org/hack/)
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 ### How to change your font in VSCode
 
