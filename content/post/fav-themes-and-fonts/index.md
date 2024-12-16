@@ -16,6 +16,14 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ## Color Themes
 
+- [Catppuccin](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-pack)
+  - Bonus: [Catppuccin Icons for VSCode](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
+- [Xcode 13 Default Dark Theme](https://marketplace.visualstudio.com/items?itemName=Colaski.xcode-13-default-dark-theme)
+- [One Candy Dark](https://marketplace.visualstudio.com/items?itemName=KacperBiedka.one-candy-dark)
+- [Dracula at Night](https://marketplace.visualstudio.com/items?itemName=bceskavich.theme-dracula-at-night)
+- Tomorrow Night Blue (already bundled with VSCode)
+- [Palenight Theme](https://marketplace.visualstudio.com/items?itemName=whizkydee.material-palenight-theme)
+
 ### How to install a color theme extension in VSCode
 
 1. Click the `Extensions` icon on the left tab menu.
@@ -28,8 +36,6 @@ On MacOS: `Cmd`+`K`+`T`
 <!-- TODO: On Windows: ... -->
 
 ## Fonts
-
-### Favorites
 
 These are some great fonts to try. JetBrains Mono and Hack look pretty similar in my opinion, so I sometimes switch between the two.
 
