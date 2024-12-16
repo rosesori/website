@@ -45,4 +45,4 @@ These are some great fonts to try. JetBrains Mono and Hack look pretty similar i
 
 <!-- TODO: Add screenshots and example -->
 
-> Photo by [Pawel Czerwinski](https://unsplash.com/@pawel_czerwinski) on [Unsplash](https://unsplash.com/)
+> Photo by [Mohammad Rahmani](https://unsplash.com/@afgprogrammer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/)
