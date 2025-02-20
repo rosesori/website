@@ -33,7 +33,7 @@ weight: 1       # You can add weight to some posts to override the default sorti
 ### How to switch color themes
 
 On MacOS: `Cmd`+`K`+`T`
-<!-- TODO: On Windows: ... -->
+On Windows: `Ctrl`+`K`+`T`
 
 ## Fonts
 
