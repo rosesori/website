@@ -4,6 +4,38 @@
 
 This is a website made with [Hugo](https://gohugo.io/) with the [Hugo theme Stack](https://github.com/CaiJimmy/hugo-theme-stack). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
 
+## Development
+
+Run the following command to build the site and serve your pages using a minimal
+HTTP server:
+
+```bash
+$ hugo server
+
+Watching for changes in /Users/...
+Watching for config changes in /Users/...
+Start building sites … 
+hugo v0.139.2+extended darwin/arm64 BuildDate=unknown
+
+
+                   | EN  
+-------------------+-----
+  Pages            | 39  
+  Paginator pages  |  0  
+  Non-page files   |  4  
+  Static files     |  1  
+  Processed images | 14  
+  Aliases          | 14  
+  Cleaned          |  0  
+
+Built in 43 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
+Press Ctrl+C to stop
+```
+
 ## Development instructions
 
 1. Click *Use this template* on the [hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter/tree/master) repository page, and create your repository as `<username>.github.io` on GitHub.
