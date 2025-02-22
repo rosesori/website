@@ -32,8 +32,13 @@ weight: 1       # You can add weight to some posts to override the default sorti
 
 ### How to switch color themes
 
-On MacOS: `Cmd`+`K`+`T`
-On Windows: `Ctrl`+`K`+`T`
+Shortcut on MacOS: `Cmd`+`K`+`T`
+
+Shortcut on Windows: `Ctrl`+`K`+`T`
+
+A dropdown should appear where you can quick select a color theme.
+
+![Switching themes in VSCode](switch-themes.jpg)
 
 ## Fonts
 
