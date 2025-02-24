@@ -50,7 +50,7 @@ These are some great fonts to try. JetBrains Mono and Hack look pretty similar i
 
 ### How to change your font in VSCode
 
-1. Navigate to your global VSCode settings. The shortcut on MacOS is `Cmd`+`,`.
+1. Navigate to your global VSCode settings. The shortcut on MacOS is `Cmd`+`,`, or `Ctrl`+`,` on Windows.
 
 2. Under `Commonly Used` > `Editor: Font Family`, enter the font family you would like to use at the start of the comma-separated list of strings.
 
