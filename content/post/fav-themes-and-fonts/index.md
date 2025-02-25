@@ -36,7 +36,7 @@ Shortcut on MacOS: `Cmd`+`K`+`T`
 
 Shortcut on Windows: `Ctrl`+`K`+`T`
 
-A dropdown should appear where you can quick select a color theme.
+A dropdown menu should appear where you can quick-select a color theme.
 
 ![Switching themes in VSCode](switch-themes.jpg)
 
