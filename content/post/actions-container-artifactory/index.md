@@ -11,7 +11,12 @@ tags:
     - Ci/CD
     - GitHub Actions
     - Docker
-weight: 1       # You can add weight to some posts to override the default sorting (date descending)
+weight: 1 # You can add weight to some posts to override the default sorting (date descending)
 ---
 
-# Test
+## Intro
+
+In a GitHub Actions workflow, you can define a Docker image to run a job on.
+The GitHub documentation on this has an example for an image from the ghcr.io
+registry, but this article provides an example of specifying an image from
+Artifactory.
