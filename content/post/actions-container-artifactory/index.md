@@ -24,3 +24,7 @@ provides an example of specifying an image from Artifactory.
 ### The workflow
 
 todo: insert code here
+
+### References
+
+todo: insert documentation links here
