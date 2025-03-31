@@ -21,7 +21,7 @@ The [GitHub documentation](https://docs.github.com/en/actions/writing-workflows/
 on this has an example for an image from the ghcr.io registry, but this article
 provides an example of specifying an image from Artifactory.
 
-### The workflow
+### The Workflow
 
 todo: insert code here
 
