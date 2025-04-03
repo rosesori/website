@@ -17,6 +17,8 @@ Insert paragraph here
 
 ## Example
 
+Insert example ansible
+
 ## Resources
 
 Insert links here
