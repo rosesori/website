@@ -22,4 +22,3 @@ Insert example ansible
 ## Resources
 
 Insert links here
-
