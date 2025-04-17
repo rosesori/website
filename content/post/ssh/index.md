@@ -17,7 +17,7 @@ Insert paragraph here.
 
 ## Example
 
-Insert example ansible
+Insert example SSH protocol
 
 ## Resources
 
