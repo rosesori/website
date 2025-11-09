@@ -1,5 +1,5 @@
 ---
-title: Links
+title: About
 links:
   - title: My GitHub
     website: https://github.com/rosesori
