@@ -1,5 +1,5 @@
 ---
-title: 
+title: Writing to files in a bash script
 description: 
 slug: 
 date: 2025-03-07 00:00:00+0000
